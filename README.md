@@ -1,5 +1,7 @@
 # Resume
 
+[Click here](blob/main/Ahmed_Thahir.pdf)
+
 ## License
 https://github.com/AhmedThahir/resume/blob/215b6c6c1f45430d2825f6f62c4c1fb662540450/license.md?plain=1#L1-L3
 
